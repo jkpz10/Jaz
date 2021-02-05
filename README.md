@@ -1,5 +1,3 @@
-# Jaz
-Github Stats
 ### Hey, Jazer here!
 
 Call me Jaz!, I'm Focused more on Front End Web Development 🙌🏻
